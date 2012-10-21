@@ -12,6 +12,12 @@
   <packaging>hpi</packaging>
 
 
+  <scm>
+    <connection>scm:git:git://github.com/jenkinsci/ceylon-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/ceylon-plugin.git</developerConnection>
+    <url>http://github.com/jenkinsci/ceylon-plugin</url>
+  </scm>
+
   <developers>
     <developer>
       <id>ndeloof</id>
