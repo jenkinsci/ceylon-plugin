@@ -11,6 +11,9 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
+  <name>Jenkins Ceylon plugin</name>
+  <description>Add support for Ceylon compiler in Jenkins</description>
+  <url>http://wiki.jenkins-ci.org/display/JENKINS/Ceylon+Plugin</url>
 
   <scm>
     <connection>scm:git:git://github.com/jenkinsci/ceylon-plugin.git</connection>
